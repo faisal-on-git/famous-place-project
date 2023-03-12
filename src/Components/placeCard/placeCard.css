@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-container{
+    width: 80vw;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-around;
+    align-items: center;
+
+    background-color: #fff;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin:20px 
+   
+} */
